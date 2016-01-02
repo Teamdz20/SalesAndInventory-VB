@@ -1,0 +1,11 @@
+c:\users\liam\documents\visual studio 2015\Projects\Sales and Inventory\Sales and Inventory\bin\Debug\Sales and Inventory.exe.config
+c:\users\liam\documents\visual studio 2015\Projects\Sales and Inventory\Sales and Inventory\obj\Debug\Sales and Inventory.vbprojResolveAssemblyReference.cache
+c:\users\liam\documents\visual studio 2015\Projects\Sales and Inventory\Sales and Inventory\obj\Debug\Sales_and_Inventory.frmMain.resources
+c:\users\liam\documents\visual studio 2015\Projects\Sales and Inventory\Sales and Inventory\obj\Debug\Sales_and_Inventory.Resources.resources
+c:\users\liam\documents\visual studio 2015\Projects\Sales and Inventory\Sales and Inventory\obj\Debug\Sales and Inventory.vbproj.GenerateResource.Cache
+c:\users\liam\documents\visual studio 2015\Projects\Sales and Inventory\Sales and Inventory\obj\Debug\Sales and Inventory.xml
+c:\users\liam\documents\visual studio 2015\Projects\Sales and Inventory\Sales and Inventory\bin\Debug\Sales and Inventory.exe
+c:\users\liam\documents\visual studio 2015\Projects\Sales and Inventory\Sales and Inventory\bin\Debug\Sales and Inventory.pdb
+c:\users\liam\documents\visual studio 2015\Projects\Sales and Inventory\Sales and Inventory\bin\Debug\Sales and Inventory.xml
+c:\users\liam\documents\visual studio 2015\Projects\Sales and Inventory\Sales and Inventory\obj\Debug\Sales and Inventory.exe
+c:\users\liam\documents\visual studio 2015\Projects\Sales and Inventory\Sales and Inventory\obj\Debug\Sales and Inventory.pdb
